@@ -64,3 +64,8 @@ body {
   scale: 1.1;
   transition: ease-in 100ms;
 }
+.soon {
+  display: flex;
+  width: 100%;
+  align-items: center;
+}

@@ -9,4 +9,16 @@ export const hotels = {
     { Name: "Bismillah", Location: "maligaikadu", image: "bismillah.jpg" },
     { Name: "Thaj hotel", Location: "Kalmunai" },
   ],
+  biriyani: [
+    { Name: "Apple bees", Location: "Nintavur" },
+    { Name: "Jinna hotel", Location: "Maruthamunai" },
+  ],
+  rice: [{ Name: "Beachway Hub", Location: "Nintavur" }],
+};
+export const Soon = function () {
+  return (
+    <footer className="soon">
+      <h3>Soon</h3>
+    </footer>
+  );
 };
