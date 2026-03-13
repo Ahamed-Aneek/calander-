@@ -19,6 +19,7 @@ code {
   margin-top: 25px;
   padding: 12px;
   background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+  overflow: scroll;
 }
 .top {
   width: 100%;
@@ -58,6 +59,7 @@ code {
 body {
   display: flex;
   justify-content: center;
+  overflow-x: scroll;
 }
 .arrange:hover {
   background-color: #e599f7;
